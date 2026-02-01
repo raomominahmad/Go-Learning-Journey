@@ -33,5 +33,3 @@ For GitLab Users:
    ```bash
    git clone git@gitlab.com:mominahmadrao/go-learning-project.git
    ```
-
-testing local config of git
