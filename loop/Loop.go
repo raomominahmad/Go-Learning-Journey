@@ -1,9 +1,10 @@
 // Golang has only for loop
-package main
+package loop
 
 import "fmt"
 
 func main()  {
+
     // acts like while loop of different programming languages
 	// i := 1
 	// for i <=3  {
@@ -42,5 +43,4 @@ func main()  {
 	   fmt.Println(n)	
 	}
 	
-
 }
