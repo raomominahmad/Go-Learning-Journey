@@ -1,4 +1,4 @@
-package switches
+package main
 
 import (
 	"fmt"

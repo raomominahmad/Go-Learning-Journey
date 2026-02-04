@@ -1,5 +1,5 @@
 // Golang has only for loop
-package loop
+package main
 
 import "fmt"
 
